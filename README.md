@@ -1,6 +1,6 @@
-#<h1 align="center">README.md Generator</h1>
+<h1 align="center">README.md Generator</h1>
 
-![badge](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+![badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description<br/>
 This project is intended to help developers easily write professional README.md files for their project.<br/>
@@ -30,10 +30,10 @@ This application is covered by the MIT license.
 Eric Rudeen<br/>
 
 ## Tests<br/>
-undefined<br/>
+No<br/>
 
 ## Questions<br/>
-undefined<br/>
+ericrudeen@gmail.com<br/>
 
 Find me on GitHub: [ericrudeen](https://github.com/ericrudeen)<br/>
 

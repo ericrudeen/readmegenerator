@@ -46,6 +46,16 @@ const promptUser = () => {
     },
     {
         type: "input",
+        name: "tests",
+        message: "Is there a test in the project that the user can use?"
+    },
+    {
+        type: "input",
+        name: "questions",
+        message: "What can I contact if I have an issue?"
+    },
+    {
+        type: "input",
         name: "username",
         message: "Please enter your GitHub username: "
     },

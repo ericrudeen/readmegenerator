@@ -1,8 +1,8 @@
 // TODO: Create a function to generate markdown for README
 const generateMarkdown = (answers) =>
-`#<h1 align="center">${answers.title}</h1>
+`<h1 align="center">${answers.title}</h1>
 
-![badge](https://img.shields.io/badge/license-${answers.license}-blue)](https://shields.io)
+![badge](https://img.shields.io/badge/license-${answers.license}-blue)
 
 ## Description<br/>
 ${answers.description}<br/>
