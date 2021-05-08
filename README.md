@@ -7,7 +7,7 @@ This project is intended to help developers easily write professional README.md 
 How to use: https://drive.google.com/file/d/10DVaBenc7LjCJRUi9K0si1GnxsWSR73J/view <br/>
 Screenshot:
 ```md
-![alt text](assets/images/screenshot.png)
+![alt text](./screenshot.png)
 ```
 
 ## Table of Contents<br/>
